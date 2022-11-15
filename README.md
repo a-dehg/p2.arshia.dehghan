@@ -8,5 +8,5 @@ I had no webcam, so I represented the user in an abstract manner via a face for 
 
 This mirror has a few things going for it. It keeps track of the time you've spent using the mirror, has time and date recording, a calender, a newsfeed, weather report, text notifications, social media interactions, and an advanced settings widget that lets you change the light/coloration of the entire mirror to four different color schemes. These were implemented via json files.
 ![p2 arshia dehghan](https://user-images.githubusercontent.com/98411979/201951781-f00f5aaf-0c6d-4137-a8d0-52b7a9fbb29d.gif)
-The presentation video was too large to upload here directly (even after compressing), so I uplaoded it to YouTube instead, but I've attatched a link to it below.
+The presentation video was too large to upload here directly (even after compressing), so I uploaded it to YouTube instead, but I've attatched a link to it below.
 Presentation Video: https://youtu.be/chRU_3VvCew
